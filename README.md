@@ -22,7 +22,7 @@ It fetches product data from a public API and displays it in a responsive grid w
 ## Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/frontend-intern-assignment.git
+git clone https://github.com/umashankarbharawa/frontend-intern-assignment.git
 cd frontend-intern-assignment
 npm install
 npm run dev
