@@ -1,0 +1,21 @@
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--accent-color);
+    /* background-color: #13802d; */
+    color: snow;
+    padding: 15px 50px;
+    text-align: center;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+
+
+@media (max-width: 769px) {
+    .header {
+        font-size: 0.7rem;
+        padding: 10px;
+    }
+}
