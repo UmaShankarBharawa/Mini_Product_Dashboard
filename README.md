@@ -22,8 +22,8 @@ It fetches product data from a public API and displays it in a responsive grid w
 ## Getting Started
 
 ```bash
-git clone https://github.com/umashankarbharawa/frontend-intern-assignment.git
-cd frontend-intern-assignment
+git clone https://github.com/umashankarbharawa/mini_product_dashboard.git
+cd mini_product_dashboard
 npm install
 npm run dev
 ```
